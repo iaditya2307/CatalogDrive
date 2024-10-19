@@ -1,7 +1,7 @@
 # CatalogDrive
 
 ## Steps to Run the Code
-
+##change the branch from #main to #master
 1. Open your terminal.
    
 2. Navigate to the directory where your `Secret_code.js` file is located. Use the following command to move to the desired directory:
